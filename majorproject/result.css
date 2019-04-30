@@ -1,0 +1,8 @@
+.btn:focus, .btn:active, button:focus, button:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .thumb{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
